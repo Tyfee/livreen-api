@@ -1,0 +1,102 @@
+{
+   "books": {
+     "Le Loup et Le Renard": {
+        "id": "llelr_fr",
+        "image": "llelr_cover",
+        "title": "Le Loup et Le Renard",
+        "author": "Brothers Grimm",
+        "summary": "The Wolf and the Fox is a German fairy tale collected by the Brothers Grimm. The story involves a greedy, gluttonous wolf living with a fox. The wolf makes the fox do all his work and threatens to eat him if he doesn't otherwise comply. The fox, in turn, devises a scheme to rid himself of the wolf.",
+        "language_code": "fr",
+        "language": "french",
+        "lines": 42,
+        "tags": "children's literature",
+        "level": "B1"
+     }, 
+        "Le Avventure Di Pinocchio": {
+           "id": "pi_it",
+           "image": "p",
+           "title": "Le Avventure Di Pinocchio",
+           "author": "Carlo Collodi",
+           "summary": "Toymaker Gepetto creates a wooden puppet toy named Pinocchio and wishes on a star that he would be a real boy. A kindly Blue Fairy appears and grants his wish thus making Pinocchio come alive. Pinocchio learns that he must prove himself worthy in order to make his father's wish come true.",
+           "language_code": "it",
+           "language": "italian",
+           "lines": 0,
+           "tags": "children's literature",
+           "level": "B2"
+        }, 
+        "Le Petit Prince": {
+           "id": "lpp_fr",
+           "image": "lpp_cover",
+           "title": "Le Petit Prince",
+           "author": "Antoine de Saint-Exupéry",
+           "summary": "The story follows a young prince who visits various planets in space, including Earth, and addresses themes of loneliness, friendship, love, and loss. Despite its style as a children's book, The Little Prince makes observations about life, adults, and human nature.",
+           "language_code": "fr",
+           "language": "french",
+           "lines": 320,
+           "tags": "children's literature",
+           "level": "B2"
+        },
+        "Histoire de Pierre Lapin": {
+           "id": "lpl_fr",
+           "image": "lapin_cover",
+           "title": "L'Histoire de Pierre Lapin",
+           "summary": "The Tale of Peter Rabbit is a children's book written and illustrated by Beatrix Potter that follows mischievous and disobedient young Peter Rabbit as he gets into, and is chased around, the garden of Mr. McGregor. ",
+           "author": "Beatrix Potter",
+           "language_code": "fr",
+           "language": "french",
+           "lines": 35,
+           "tags": "children's literature",
+           "level": "A2"
+        },
+        "Ligeia": {
+           "id": "lig_de",
+           "image": "lig_cover",
+           "title": "Ligeia",
+           "author": "Edgar Allan Poe",
+           "summary": "The story follows an unnamed narrator and his wife Ligeia, a beautiful and intelligent raven-haired woman. She falls ill, composes 'The Conqueror Worm', and quotes lines attributed to Joseph Glanvill (which suggest that life is sustainable only through willpower) shortly before dying.",
+           "language_code": "de",
+           "language": "german",
+           "lines": 0,
+           "tags": "horror",
+           "level": "C1"
+        },
+       
+        "火星の記憶": {
+           "id": "mom_ja",
+           "image": "mom_cover",
+           "title": "火星の記憶",
+           "author": "Raymond F. Jones",
+           "summary": "Did you ever go on a vacation and then not remember it? Mel Hastings had this problem. His wife often spoke of returning to Mars but he could remember none of the first trip. When she is killed in an accident a terrible truth comes to light. This shock, along with his recurring nightmares, spurs Mel to seek out answers. The search leads him on a quest to return to the red planet and discover the astonishing truth.",
+           "language_code": "ja",
+           "language": "japanese",
+           "lines": 0,
+           "tags": "sci-fi",
+           "level": "B2"
+        },
+        "人間失格": {
+           "id": "ns_ja",
+           "image": "ns_cover",
+           "title": "人間失格",
+           "author": "太宰治",
+           "summary": "The novel, narrated in first person, contains several elements which portray an autobiographical basis but is in fact categorized under the semi-autobiographical genre since the characters in the book are all fictional. The novel presents recurring themes in the author's life, including suicide, social alienation, and depression.",
+           "language_code": "ja",
+           "language": "japanese",
+           "lines": 0,
+           "tags": "classics",
+           "level": "C1"
+        },
+        "A Mão e a Luva": {
+           "id": "mel_ja",
+           "image": "mel_cover",
+           "title": "A Mão e a Luva",
+           "author": "Machado de Assis",
+           "summary": "A Mão e a Luva is a romance novel written by Brazilian author Machado de Assis and published in 1874. The book is a psychological analysis of society and of false naivety.",
+           "language_code": "br",
+           "language": "portuguese",
+           "lines": 0,
+           "tags": "classics",
+           "level": "B2"
+        }
+      }
+   }
+
