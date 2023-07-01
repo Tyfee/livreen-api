@@ -25,13 +25,13 @@ async def root():
 
 @app.get('/recent_books')
 async def root():
-     with open('json/recents.json') as fp:
+     with open('/json/recents.json') as fp:
       data = json.load(fp)
       return data
 
 @app.get('/books')
 async def root():
-    with open('json/v1.json') as fp:
+    with open('/json/v1.json') as fp:
       data = json.load(fp)
       return data
 
