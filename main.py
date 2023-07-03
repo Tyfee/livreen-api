@@ -8,7 +8,7 @@ app = FastAPI()
 origins = [
     "https://livreen-tyfee.vercel.app",
     "http://localhost:3000",
-        "livreen.app.url",
+        "https://livreen.app.url",
 ]
 
 app.add_middleware(
