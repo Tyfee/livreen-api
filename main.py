@@ -7,7 +7,7 @@ app = FastAPI()
 
 origins = [
     "https://livreen-tyfee.vercel.app",
-    "http://localhost",
+    "http://localhost:3000",
         "https://livreen.app.url",
 ]
 
