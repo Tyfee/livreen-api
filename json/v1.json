@@ -10,7 +10,8 @@
          "language": "french",
          "lines": 42,
          "tags": "children's literature",
-         "level": "B1"
+         "level": "B1",
+          "flag": "https://raw.githubusercontent.com/Tyfee/livreen-api/main/assets/france.png"
       }, 
          "Le Avventure Di Pinocchio": {
             "id": "pi_it",
@@ -22,7 +23,8 @@
             "language": "italian",
             "lines": 0,
             "tags": "children's literature",
-            "level": "B2"
+            "level": "B2",
+          "flag": "https://raw.githubusercontent.com/Tyfee/livreen-api/main/assets/italy.png"
          }, 
          "Le Petit Prince": {
             "id": "lpp_fr",
@@ -34,7 +36,8 @@
             "language": "french",
             "lines": 320,
             "tags": "children's literature",
-            "level": "B2"
+            "level": "B2",
+          "flag": "https://raw.githubusercontent.com/Tyfee/livreen-api/main/assets/france.png"
          },
          "Histoire de Pierre Lapin": {
             "id": "lpl_fr",
@@ -46,7 +49,8 @@
             "language": "french",
             "lines": 35,
             "tags": "children's literature",
-            "level": "A2"
+            "level": "A2",
+          "flag": "https://raw.githubusercontent.com/Tyfee/livreen-api/main/assets/france.png"
          },
          "Ligeia": {
             "id": "lig_de",
@@ -58,7 +62,8 @@
             "language": "german",
             "lines": 0,
             "tags": "horror",
-            "level": "C1"
+            "level": "C1",
+          "flag": "https://raw.githubusercontent.com/Tyfee/livreen-api/main/assets/germany.png"
          },
         
          "火星の記憶": {
@@ -71,7 +76,8 @@
             "language": "japanese",
             "lines": 0,
             "tags": "sci-fi",
-            "level": "B2"
+            "level": "B2",
+          "flag": "https://raw.githubusercontent.com/Tyfee/livreen-api/main/assets/japan.png"
          },
          "人間失格": {
             "id": "ns_ja",
@@ -83,7 +89,8 @@
             "language": "japanese",
             "lines": 0,
             "tags": "classics",
-            "level": "C1"
+            "level": "C1",
+          "flag": "https://raw.githubusercontent.com/Tyfee/livreen-api/main/assets/japan.png"
          },
          "A Mão e a Luva": {
             "id": "mel_ja",
@@ -95,7 +102,8 @@
             "language": "portuguese",
             "lines": 0,
             "tags": "classics",
-            "level": "B2"
+            "level": "B2",
+          "flag": "https://raw.githubusercontent.com/Tyfee/livreen-api/main/assets/brazil.png"
          },
          "La Chouette": {
             "id": "lc_fr",
@@ -107,7 +115,8 @@
             "language": "french",
             "lines": 0,
             "tags": "children's literature",
-            "level": "A2"
+            "level": "A2",
+          "flag": "https://raw.githubusercontent.com/Tyfee/livreen-api/main/assets/france.png"
          },
          "Ёлка и свадьба": {
             "id": "ctaw_ru",
@@ -119,7 +128,8 @@
             "language": "russian",
             "lines": 55,
             "tags": "classics, short stories",
-            "level": "B2"
+            "level": "B2",
+          "flag": "https://raw.githubusercontent.com/Tyfee/livreen-api/main/assets/russia.png"
          },
          "Записки из подполья": {
             "id": "nfu_ru",
@@ -131,7 +141,8 @@
             "language": "russian",
             "lines": 55,
             "tags": "classics",
-            "level": "B2"
+            "level": "B2",
+          "flag": "https://raw.githubusercontent.com/Tyfee/livreen-api/main/assets/russia.png"
          }
                   
          
