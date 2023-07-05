@@ -143,8 +143,21 @@
             "tags": "classics",
             "level": "B2",
           "flag": "https://raw.githubusercontent.com/Tyfee/livreen-api/main/assets/russia.png"
+         },
+         "貓城記": {
+            "id": "nfu_ru",
+            "image": "https://raw.githubusercontent.com/Tyfee/livreen-api/main/assets/cc_cover.jpeg",
+            "title": "貓城記",
+            "author": "老舍",
+            "summary": "When a traveler from China crash-lands on Mars, he finds himself in a country inhabited entirely by Cat People. Befriended by a local cat-man, he becomes acquainted in all aspects of cat-life: he learns to speak Felinese, masters cat-poetry, and appreciates the narcotic effects of the reverie leaf—their food staple.",
+            "language_code": "ch",
+            "language": "chinese",
+            "lines": 55,
+            "tags": "classics, sci-fi",
+            "level": "B2",
+          "flag": "https://raw.githubusercontent.com/Tyfee/livreen-api/main/assets/russia.png"
          }
-                  
+                 
          
     }
 
