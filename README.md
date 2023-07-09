@@ -13,7 +13,6 @@ fetch("https://livreen-api.onrender.com/books").then(resp => resp.json())
   .then(data => { console.log(data)})
 }
 ```
-Response:
 ![books](https://github.com/Tyfee/livreen-api/assets/121516618/3282c64b-b177-42cc-85dc-9afd0db40a57)
 
 
@@ -28,7 +27,6 @@ fetch("https://livreen-api.onrender.com/book?id=mom_ja").then(resp => resp.json(
 }
 ```
 
-Response: 
 ![lines](https://github.com/Tyfee/livreen-api/assets/121516618/30b99167-a162-4eff-b6c5-4128db58d097)
 
 # Requesting a specific line from a book
@@ -42,7 +40,6 @@ fetch("https://livreen-api.onrender.com/line?id=mom_ja&line=thirteen").then(resp
 }
 ```
 
-Response: 
 ![line](https://github.com/Tyfee/livreen-api/assets/121516618/fe326608-a545-4be9-8441-83e9459a4c7a)
 
 
