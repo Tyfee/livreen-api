@@ -156,6 +156,19 @@
             "tags": "classics, sci-fi",
             "level": "B2",
           "flag": "https://raw.githubusercontent.com/Tyfee/livreen-api/main/assets/china.png"
+         },
+         "Barnen ifrån Frostmofjället": {
+            "id": "bif_sv",
+            "image": "https://raw.githubusercontent.com/Tyfee/livreen-api/main/assets/bif_cover.jpeg",
+            "title": "Barnen ifrån Frostmofjället",
+            "author": "Laura Fitinghoff",
+            "summary": "It concerns seven poor orphans travelling together with a goat, their food source, during the 1860s in northern Sweden. The story was translated into a number of languages; made into the 1945 film Barnen från Frostmofjället and the goat Gullspira would, in time, inspire an award for the best children's film maker.",
+            "language_code": "sv",
+            "language": "sweden",
+            "lines": 205,
+            "tags": "classics, children's literature",
+            "level": "B2",
+          "flag": "https://raw.githubusercontent.com/Tyfee/livreen-api/main/assets/sweden.png"
          }
                  
          
